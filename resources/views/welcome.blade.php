@@ -6,7 +6,7 @@
 </head>
 <body class="bg-light">
   <nav class="navbar navbar-dark bg-dark p-2">
-    <a class="navbar-brand ms-3" href="/">SmartPOS</a>
+    <a class="navbar-brand ms-3" href="/">Smart_POS</a>
   </nav>
   <div class="container mt-4">
     @yield('content')
